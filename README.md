@@ -39,4 +39,4 @@ Ultimatum|HTB|Easy|VIP|catscale|[Link](https://app.hackthebox.com/sherlocks/Ulti
 Heartbreaker-Denouement|HTB|Easy|VIP|UAC + Cloudtrail|[Link](https://app.hackthebox.com/sherlocks/Heartbreaker-Denouement)
 Ore|HTB|Medium|VIP|catscale|[Link](https://app.hackthebox.com/sherlocks/Ore)
 Fragility|HTB|Easy|VIP|whole disk + pcap|[Link](https://app.hackthebox.com/sherlocks/Fragility)
-OpSalwarKameez24-4: Salsa-Dance|HTB|Medium|KAPE + catscale|[Link](https://app.hackthebox.com/sherlocks/OpSalwarKameez24-4:%20Salsa-Dance)
+OpSalwarKameez24-4: Salsa-Dance|HTB|Medium|VIP|KAPE + catscale|[Link](https://app.hackthebox.com/sherlocks/OpSalwarKameez24-4:%20Salsa-Dance)
